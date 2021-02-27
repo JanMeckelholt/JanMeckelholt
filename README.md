@@ -1,4 +1,5 @@
 <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/hellowinniepooh.gif" width="150px">  
+
 ### Hi there
 
 Happy that you found my github-page. :-)
@@ -8,7 +9,7 @@ I live in Germany and work as an Engineer for the Daimler AG.
 In parallel I am studying Professional Software Engineering at Reutlingen University.
 
 My github-page showcases some of my work regarding 
-Java <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/java.png" width="3px">
+Java <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/java.png" width="30px">
 , Kotlin, SQL, Docker.
 Feel free to reuse or to report bugs.
 
