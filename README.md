@@ -15,8 +15,8 @@ Java <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/java.png
 , Docker <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/docker.jpeg" width="30px">.  
 Feel free to reuse or to report bugs. Or just leave a star. ;-)
 
-Reach me via <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/linkedin.jpeg" width="30px"> :  
-[LinkedIn](https://www.linkedin.com/in/jan-meckelholt/)
+Reach me via LinkedIn <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/linkedin.jpeg" width="20px"> :  
+[https://www.linkedin.com/in/jan-meckelholt/](https://www.linkedin.com/in/jan-meckelholt/)
 
 
 
