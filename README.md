@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/hellowinniepooh.gif" width="30px">
+### Hi there <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/hellowinniepooh.gif" width="150px">
 
 
 
