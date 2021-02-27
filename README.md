@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/hellowinniepooh.gif" width="30px">
+
+
 
 <!--
 **JanMeckelholt/JanMeckelholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
