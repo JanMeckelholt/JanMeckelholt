@@ -10,6 +10,7 @@ In parallel I am studying Professional Software Engineering at Reutlingen Univer
 
 My github-page showcases some of my work regarding 
 Java <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/java.png" width="30px">
+, JS <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/javascript.png" width="30px">
 , Kotlin <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/kotlin.jpeg" width="30px">
 , SQL <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/sql.jpeg" width="30px">
 , Docker <img src="https://github.com/JanMeckelholt/JanMeckelholt/blob/main/docker.jpeg" width="30px">.  
